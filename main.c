@@ -54,13 +54,13 @@
  */
 
 /** @brief Symbol specifying timer instance to be used. */
-#define TIMER_INST_IDX 0
+#define TIMER_INST_IDX 20
 
 /** @brief Symbol specifying time in milliseconds to wait for handler execution. */
 #define TIME_TO_WAIT_MS 1000UL
 
 /** @brief Symbol specifying GPIOTE instance to be used. */
-#define GPIOTE_INST_IDX 0
+#define GPIOTE_INST_IDX 20
 
 /** @brief Symbol specifying output pin associated with primary task. */
 #define OUTPUT_PIN_PRIMARY LED1_PIN
